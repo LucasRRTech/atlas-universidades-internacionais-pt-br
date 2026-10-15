@@ -28,9 +28,16 @@ Usei ferramentas de inteligência artificial como apoio para:
 
 A IA não substitui a conferência das fontes. Requisitos, valores, prazos, bolsas e regras de visto devem ser confirmados nas páginas oficiais de cada universidade e governo. A curadoria, as decisões de escopo, a revisão das informações e a organização final do Atlas fazem parte do meu trabalho.
 
+## Idiomas e acesso
+
+O Atlas é originalmente em português, pois reúne meu planejamento pessoal a partir do Brasil. Para ampliar o acesso, também mantenho uma versão em inglês revisada, com a mesma estrutura e os mesmos dados principais.
+
+- **Português:** [abrir o Atlas](./index.html)
+- **English:** [open the English version](./en/index.html)
+
 ## Como usar
 
-Abra `Atlas_Universidades_PUBLICO.html` em um navegador moderno. O arquivo funciona como uma página estática e não exige instalação.
+Abra `index.html` em um navegador moderno ou use o site publicado pelo GitHub Pages. O arquivo funciona como uma página estática e não exige instalação.
 
 ## Aviso
 
