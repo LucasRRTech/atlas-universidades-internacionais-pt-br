@@ -28,12 +28,11 @@ Usei ferramentas de inteligência artificial como apoio para:
 
 A IA não substitui a conferência das fontes. Requisitos, valores, prazos, bolsas e regras de visto devem ser confirmados nas páginas oficiais de cada universidade e governo. A curadoria, as decisões de escopo, a revisão das informações e a organização final do Atlas fazem parte do meu trabalho.
 
-## Idiomas e acesso
+## Idioma
 
-O Atlas é originalmente em português, pois reúne meu planejamento pessoal a partir do Brasil. Para ampliar o acesso, também mantenho uma versão em inglês revisada, com a mesma estrutura e os mesmos dados principais.
+Este repositório e o site publicado aqui são exclusivamente em português brasileiro (PT-BR). A versão em inglês foi separada em um repositório próprio para evitar confusão entre os idiomas.
 
-- **Português:** [abrir o Atlas](./index.html)
-- **English:** [open the International University Atlas](./International_University_Atlas.html)
+**Abrir o Atlas PT-BR:** [index.html](./index.html)
 
 ## Como usar
 
