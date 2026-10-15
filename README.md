@@ -33,7 +33,7 @@ A IA não substitui a conferência das fontes. Requisitos, valores, prazos, bols
 O Atlas é originalmente em português, pois reúne meu planejamento pessoal a partir do Brasil. Para ampliar o acesso, também mantenho uma versão em inglês revisada, com a mesma estrutura e os mesmos dados principais.
 
 - **Português:** [abrir o Atlas](./index.html)
-- **English:** [open the English version](./en/index.html)
+- **English:** [open the English version](./Atlas_Universidades_EN.html)
 
 ## Como usar
 
